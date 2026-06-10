@@ -19,7 +19,7 @@ about:
   icon: https://www.google.com/s2/favicons?domain=cloud.google.com&sz=64
 source:
   project: https://github.com/googleapis/genai-toolbox
-  commit: 34e16d2e8e36298314c19a04d51b438ab66d2735
+  commit: eede644599fd7c88775f40025db53d30eb08d381
 run:
   command:
     - --stdio
